@@ -7,7 +7,3 @@ const checkArguments = (...args) => {
     console.log("Arguments found");
   }
 };
-
-checkArguments();
-checkArguments("Hello");
-checkArguments("Hello", "Anita");
