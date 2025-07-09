@@ -8,6 +8,6 @@ if (isNaN(firstArg)) {
     for (let j = 0; j < firstArg; j++) {
       square += "X";
     }
-    console.log(row);
+    console.log(square);
   }
 }
